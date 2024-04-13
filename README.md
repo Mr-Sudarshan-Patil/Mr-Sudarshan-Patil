@@ -42,4 +42,21 @@
 <br/>
 <br/>
 <hr/>
+<h3 align="center">Projects</h3>
+<p align="left">1) Apna College Repo Link: https://github.com/Mr-Sudarshan-Patil/Apna_College </p>
+<p align="left">Project Live Link: https://mr-sudarshan-patil.github.io/Apna_College/</p>
+<br/>
+<p align="left">2) Randome-Link-Generator Repo Link: https://github.com/Mr-Sudarshan-Patil/Randome-Link-Generator </p>
+<p align="left">Project Live Link: https://mr-sudarshan-patil.github.io/Randome-Link-Generator/ </p>
+<br/>
+<p align="left">3) Amazon Home Page Repo Link: https://github.com/Mr-Sudarshan-Patil/Amazon-Clone---Home-Page </p>
+<p align="left">Project Live Link: https://mr-sudarshan-patil.github.io/Amazon-Clone---Home-Page/ </p>
+<br/>
+<p align="left">4) Tic-Tac-Toe Repo Link: https://github.com/Mr-Sudarshan-Patil/Tic-Tac-Toe </p>
+<p align="left">Project Live Link: https://mr-sudarshan-patil.github.io/Tic-Tac-Toe/</p>
+<br/>
+<p align="left">5) Simon-Says-Game Repo Link: https://github.com/Mr-Sudarshan-Patil/Tic-Tac-Toe</p>
+<p align="left">Project Live Link: https://mr-sudarshan-patil.github.io/Simon-Says-Game/</p>
+<br/>
+<hr/>
 
