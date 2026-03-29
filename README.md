@@ -34,10 +34,15 @@
 <br/><br/>
 <hr/>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats-git-master-mr-sudarshan-patils-projects.vercel.app/api/top-langs?username=mr-sudarshan-patil&layout=compact" /></p>
+<div style="text-align:center;">
+  <img src="https://github-readme-stats-git-master-mr-sudarshan-patils-projects.vercel.app/api/top-langs?username=mr-sudarshan-patil&layout=compact" />
+</div>
+
 <br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-sudarshan-patil&show_icons=true&locale=en" alt="mr-sudarshan-patil" /></p>
-<br/>
+
+<div style="text-align:center;">
+  <img src="https://github-readme-stats-git-master-mr-sudarshan-patils-projects.vercel.app/api?username=mr-sudarshan-patil&show_icons=true" />
+</div>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-sudarshan-patil&" alt="mr-sudarshan-patil" /></p>
 <br/>
 <br/>
