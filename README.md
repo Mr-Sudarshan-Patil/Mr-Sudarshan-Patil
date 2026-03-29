@@ -34,7 +34,7 @@
 <br/><br/>
 <hr/>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats-git-master-mr-sudarshan-patils-projects.vercel.app&show_icons=true&locale=en&layout=compact" alt="mr-sudarshan-patil" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-git-master-mr-sudarshan-patils-projects.vercel.app/api/top-langs?username=mr-sudarshan-patil&layout=compact" /></p>
 <br/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-sudarshan-patil&show_icons=true&locale=en" alt="mr-sudarshan-patil" /></p>
 <br/>
