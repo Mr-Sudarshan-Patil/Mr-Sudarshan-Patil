@@ -1,5 +1,5 @@
  
-![logo](https://github.com/Mr-Sudarshan-Patil/Mr-Sudarshan-Patil/blob/main/Cover.jpg)
+![logo](https://github.com/Mr-Sudarshan-Patil/Mr-Sudarshan-Patil/blob/main/Cover.png)
 
 <h1 align="center">Hi 👋, I'm Sudarshan Patil</h1>
 <h3 align="center">A passionate software developer from India</h3>
