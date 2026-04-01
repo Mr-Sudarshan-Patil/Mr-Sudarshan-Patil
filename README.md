@@ -34,18 +34,17 @@
 <br/><br/>
 <hr/>
 <br/>
-<div style="text-align:center;">
-  <img src="https://github-readme-stats-git-master-mr-sudarshan-patils-projects.vercel.app/api/top-langs?username=mr-sudarshan-patil&layout=compact" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mr-Sudarshan-Patil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mr-Sudarshan-Patil&theme=dark&hide_border=false)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Sudarshan-Patil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mr-Sudarshan-Patil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div style="text-align:center;">
-  <img src="https://github-readme-stats-git-master-mr-sudarshan-patils-projects.vercel.app/api?username=mr-sudarshan-patil&show_icons=true" />
-</div>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-sudarshan-patil&" alt="mr-sudarshan-patil" /></p>
-<br/>
-<br/>
-<hr/>
+---
+[![](https://visitcount.itsvg.in/api?id=Mr-Sudarshan-Patil&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
