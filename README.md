@@ -101,14 +101,11 @@
 <br/><br/>
 <hr/>
 <br/><br/>
-
-## 🚀 Top Projects
-
 ## 🚀 Top Projects
 
 | Project | Description | Tech Stack | Code | Live |
 |--------|------------|------------|------|------|
-| Trading Application (Zerodha Clone) | Full-stack trading platform with dashboard & authentication | <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" height="20"/> <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" height="20"/> <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" height="20"/> | [View](#) | [Live](#) |
+| Trading Application (Zerodha Clone) | Full-stack trading platform with dashboard & authentication | <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" height="20"/> <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" height="20"/> <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" height="20"/> | [![View](https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github)]([https://github.com/YOUR_USERNAME/project](https://github.com/Mr-Sudarshan-Patil/zerodha-frontend)) | [![Live](https://img.shields.io/badge/Live-Demo-1f6feb?style=for-the-badge&logo=vercel)]([https://your-live-link.com](https://zerodha-frontend.vercel.app/)) |
 | Portfolio Website (sp.dev) | Personal portfolio with modern UI | <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" height="20"/> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" height="20"/> | [View](#) | [Live](#) |
 | AI Agent Chatbot | AI chatbot that answers queries about me | <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" height="20"/> <img src="https://img.shields.io/badge/api-integration-blue?style=flat" height="20"/> | [View](#) | [Live](#) |
 | Book Inventory System | CRUD-based inventory system | <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" height="20"/> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" height="20"/> | [View](#) | [Live](#) |
