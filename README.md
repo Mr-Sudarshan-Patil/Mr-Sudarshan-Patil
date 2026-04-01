@@ -2,7 +2,10 @@
 ![logo](https://github.com/Mr-Sudarshan-Patil/Mr-Sudarshan-Patil/blob/main/Cover2.png)
 
 <h1 align="center">Hi 👋, I'm Sudarshan Patil</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">
+  Full Stack MERN Developer • React • Node.js • Express.js • MongoDB <br/>
+  Focused on building real-world, scalable web applications
+</h3>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sudarshan-patil&label=Profile%20views&color=0e75b6&style=flat" alt="mr-sudarshan-patil" /> </p>
 
