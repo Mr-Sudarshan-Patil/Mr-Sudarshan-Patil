@@ -106,3 +106,12 @@
 </p>
 <br><br>
 
+## 🚀 Top Projects
+
+| Project | Description | Tech Stack | Code | Live |
+|--------|------------|------------|------|------|
+| E-Commerce App | Full-stack application with authentication, cart, and payment integration | MERN (MongoDB, Express, React, Node.js) | [View](https://github.com/YOUR_USERNAME/ecommerce-app) | [Live](https://your-live-link.com) |
+| Task Manager | Secure task management app with JWT authentication and CRUD operations | Node.js, Express, MongoDB, React | [View](https://github.com/YOUR_USERNAME/task-manager) | [Live](https://your-live-link.com) |
+| Portfolio Website | Personal portfolio showcasing projects and skills with responsive design | React, Tailwind CSS | [View](https://github.com/YOUR_USERNAME/portfolio) | [Live](https://your-live-link.com) |
+| Blog App | Full-stack blog platform with user authentication and content management | MERN Stack | [View](https://github.com/YOUR_USERNAME/blog-app) | [Live](https://your-live-link.com) |
+
