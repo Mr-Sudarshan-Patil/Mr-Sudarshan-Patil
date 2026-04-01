@@ -100,18 +100,34 @@
 
 <br/><br/>
 <hr/>
-<br/>
-<p align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
-</p>
-<br><br>
+<br/><br/>
+
+## 🚀 Top Projects
 
 ## 🚀 Top Projects
 
 | Project | Description | Tech Stack | Code | Live |
 |--------|------------|------------|------|------|
-| E-Commerce App | Full-stack application with authentication, cart, and payment integration | MERN (MongoDB, Express, React, Node.js) | [View](https://github.com/YOUR_USERNAME/ecommerce-app) | [Live](https://your-live-link.com) |
-| Task Manager | Secure task management app with JWT authentication and CRUD operations | Node.js, Express, MongoDB, React | [View](https://github.com/YOUR_USERNAME/task-manager) | [Live](https://your-live-link.com) |
-| Portfolio Website | Personal portfolio showcasing projects and skills with responsive design | React, Tailwind CSS | [View](https://github.com/YOUR_USERNAME/portfolio) | [Live](https://your-live-link.com) |
-| Blog App | Full-stack blog platform with user authentication and content management | MERN Stack | [View](https://github.com/YOUR_USERNAME/blog-app) | [Live](https://your-live-link.com) |
+| Trading Application (Zerodha Clone) | Full-stack trading platform with dashboard & authentication | <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" height="20"/> <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" height="20"/> <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" height="20"/> | [View](#) | [Live](#) |
+| Portfolio Website (sp.dev) | Personal portfolio with modern UI | <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" height="20"/> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" height="20"/> | [View](#) | [Live](#) |
+| AI Agent Chatbot | AI chatbot that answers queries about me | <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" height="20"/> <img src="https://img.shields.io/badge/api-integration-blue?style=flat" height="20"/> | [View](#) | [Live](#) |
+| Book Inventory System | CRUD-based inventory system | <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" height="20"/> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" height="20"/> | [View](#) | [Live](#) |
 
+## 📦 Other Projects
+
+| Project | Description | Tech Stack | Code |
+|--------|------------|------------|------|
+| News App | Fetches real-time news using API | <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" height="18"/> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" height="18"/> | [View](#) |
+| Medical Patient Tracker | Simple patient record management system | <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" height="18"/> | [View](#) |
+| Random Link Generator | Generates random useful links | <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" height="18"/> | [View](#) |
+| EV Charging Locator | Shows nearby EV charging points | <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" height="18"/> | [View](#) |
+| Netflix Clone | UI clone for learning frontend design | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="18"/> | [View](#) |
+| Tic Tac Toe Game | Classic game built with JS logic | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="18"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" height="18"/> | [View](#) |
+
+
+<br/>
+<br/>
+<p align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
+</p>
+<br><br>
