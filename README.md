@@ -17,29 +17,29 @@
 
 
 <br/>
-<h3 align="center">🌐 Connect with Me</h3>
+<h3 align="left">🌐 Connect with Me</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/er-sudarshan-patil">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" height="35"/>
   </a>
   <a href="mailto:sudarshanpatil.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" height="35"/>
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/_er_sp_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white" height="35"/>
   </a>
   <a href="https://x.com/_er_sp_">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white" height="35"/>
   </a>
   <a href="https://discord.gg/1209502007015112774">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white" height="35"/>
   </a>
   <a href="https://stackoverflow.com/users/32570223">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" height="35"/>
   </a>
 </p>
 <br/>
