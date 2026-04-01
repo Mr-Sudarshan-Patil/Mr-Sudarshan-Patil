@@ -101,20 +101,8 @@
 <br/><br/>
 <hr/>
 <br/>
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Sudarshan-Patil&theme=tokyonight&hide_border=true&show_icons=true" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mr-Sudarshan-Patil&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Sudarshan-Patil&theme=tokyonight&hide_border=true&layout=compact" height="160"/>
-</p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mr-Sudarshan-Patil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
+<br><br>
 ---
 [![](https://visitcount.itsvg.in/api?id=Mr-Sudarshan-Patil&icon=0&color=0)](https://visitcount.itsvg.in)
 
