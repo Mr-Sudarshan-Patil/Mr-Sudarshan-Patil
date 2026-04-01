@@ -98,12 +98,16 @@
 <br/><br/>
 <hr/>
 <br/>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mr-Sudarshan-Patil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mr-Sudarshan-Patil&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Sudarshan-Patil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Sudarshan-Patil&theme=tokyonight&hide_border=true&show_icons=true" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mr-Sudarshan-Patil&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Sudarshan-Patil&theme=tokyonight&hide_border=true&layout=compact" height="160"/>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mr-Sudarshan-Patil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
