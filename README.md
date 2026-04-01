@@ -28,9 +28,54 @@
 <hr/>
 <br/>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Tech Stack</h3>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<br/>
+
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react_router-CA4245?style=plastic&logo=react-router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react_hook_form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/semantic_ui_react-%2335BDB2.svg?style=plastic&logo=SemanticUIReact&logoColor=white"/>
+</p>
+
+<h4 align="center">Backend</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jwt-black?style=plastic&logo=JSON%20web%20tokens"/>
+</p>
+
+<h4 align="center">Programming Languages</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
+
+<h4 align="center">Tools & Platforms</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=plastic&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7"/>
+  <img src="https://img.shields.io/badge/render-%46E3B7.svg?style=plastic&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/windows_terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nodemon-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD"/>
+  <img src="https://img.shields.io/badge/babel-F9DC3e?style=plastic&logo=babel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white"/>
+</p>
+
+
 <br/><br/>
 <hr/>
 <br/>
