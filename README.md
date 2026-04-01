@@ -7,21 +7,40 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sudarshan-patil&label=Profile%20views&color=0e75b6&style=flat" alt="mr-sudarshan-patil" /> </p>
 
 <img align="right" width="500px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-- 🌱 I’m currently learning **Mern stack development and DSA**
+- 🌱 Currently focused on  **MERN Stack Development**
   
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 Explore my projects on **GitHub**, where I build and deploy full-stack applications | [Github](Github)
   
-- 💬 Ask me about **React & JavaScript**
+- 💬 Open to discussions on **React, JavaScript, and modern web development**
   
-- 📫 How to reach me **Sudarshanpatil.dev@gmail.com**
+- 📫 Reach me at: **Sudarshanpatil.dev@gmail.com**
 
 
 <br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/er-sudarshan-patil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/er-sudarshan-patil/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_er_sp_?igsh=d3nuznn1amu3nwgy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_er_sp_?igsh=d3nuznn1amu3nwgy" height="30" width="40" /></a>
-<a href="https://x.com/_er_sp_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="https://x.com/_er_sp_" height="25" width="30" /></a>
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/er-sudarshan-patil">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  <a href="mailto:sudarshanpatil.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/_er_sp_">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="35"/>
+  </a>
+  <a href="https://x.com/_er_sp_">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" height="35"/>
+  </a>
+  <a href="https://discord.gg/1209502007015112774">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="35"/>
+  </a>
+  <a href="https://stackoverflow.com/users/32570223">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="35"/>
+  </a>
 </p>
 <br/>
 <br/>
