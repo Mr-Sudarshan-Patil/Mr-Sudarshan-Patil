@@ -102,9 +102,6 @@
 <hr/>
 <br/><br/>
 # Profile Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-sudarshan-patil)](https://github.com/mr-sudarshan-patil/github-readme-stats)
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-sudarshan-patil&" alt="mr-sudarshan-patil" /></p>
 <br/><br/>
 
