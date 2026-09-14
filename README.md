@@ -4,12 +4,11 @@
 <h1 align="center">Hi 👋, I'm Sudarshan Patil</h1>
 <h3 align="center">
   Aspiring Backend Developer • Java • Spring Boot • Hibernate • REST APIs <br/>
-Frontend foundation in React.js & Node.js — currently going deep on backend engineering
+Frontend foundation in React.js & Node.js - currently going deep on backend engineering
 </h3>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sudarshan-patil&label=Profile%20views&color=0e75b6&style=flat" alt="mr-sudarshan-patil" /> </p>
 
-<img align="right" width="500px" autoplay src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/> <br/>
+<img align="right" width="500px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/><br/>
 
 - 🎯 Currently focused on **Java Backend Development** — Spring Boot, Hibernate, REST APIs, Kafka
   
