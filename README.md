@@ -3,18 +3,20 @@
 
 <h1 align="center">Hi 👋, I'm Sudarshan Patil</h1>
 <h3 align="center">
-  Full Stack MERN Developer • React • Node.js • Express.js • MongoDB <br/>
-  Focused on building real-world, scalable web applications
+  Aspiring Backend Developer • Java • Spring Boot • Hibernate • REST APIs <br/>
+Frontend foundation in React.js & Node.js — currently going deep on backend engineering
 </h3>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sudarshan-patil&label=Profile%20views&color=0e75b6&style=flat" alt="mr-sudarshan-patil" /> </p>
 
 <img align="right" width="500px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-- 🌱 Currently focused on  **MERN Stack Development**
+- 🎯 Currently focused on **Java Backend Development** — Spring Boot, Hibernate, REST APIs, Kafka
   
+- 💡 Background in **React.js & Node.js**, now building backend depth
+ 
 - 👨‍💻 Explore my projects on **GitHub**, where I build and deploy full-stack applications | [Github](Github)
   
-- 💬 Open to discussions on **React, JavaScript, and modern web development**
+- 💬 Open to discussions on **Java, Spring Boot, Hibernate, Rest APIs, React, JavaScript, and modern web development**
   
 - 📫 Reach me at: **Sudarshanpatil.dev@gmail.com**
 
@@ -79,7 +81,6 @@
 <h4 align="center">Programming Languages</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 
@@ -104,7 +105,7 @@
 # Profile Stats
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-sudarshan-patil&" alt="mr-sudarshan-patil" /></p>
 <br/><br/>
-
+<h5>Currently building backend/Java projects — will be added here as they ship. Below are my completed full-stack & frontend projects.</h5> <br/>
 # 🚀 Top Projects
 
 | Project | Description | Tech Stack | Code | Live |
