@@ -10,6 +10,10 @@ Frontend foundation in React.js & Node.js — currently going deep on backend en
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sudarshan-patil&label=Profile%20views&color=0e75b6&style=flat" alt="mr-sudarshan-patil" /> </p>
 
 <img align="right" width="500px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+
+<video autoplay loop muted playsinline>
+  <source src="[animation.mp4](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)" type="video/mp4">
+</video>
 - 🎯 Currently focused on **Java Backend Development** — Spring Boot, Hibernate, REST APIs, Kafka
   
 - 💡 Background in **React.js & Node.js**, now building backend depth
